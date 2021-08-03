@@ -27,8 +27,8 @@ Ref.: https://medium.com/@alex.birsan/dependency-confusion-4a5d60fec610
 import setuptools
 
 setuptools.setup(
-    name="scaffolds",
-    version="1.0.1",
+    name="preview_scripts",
+    version="1.0.0",
     url="https://github.com/francisbeaudoinh1/preview_scripts",
     download_url = "https://github.com/francisbeaudoinh1/preview_scripts/archive/v_01.tar.gz",
     author="Francis Beaudoin",
