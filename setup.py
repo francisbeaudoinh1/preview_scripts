@@ -30,7 +30,7 @@ setuptools.setup(
     name="preview_scripts",
     version="1.0.0",
     url="https://github.com/francisbeaudoinh1/preview_scripts",
-    download_url = "https://github.com/francisbeaudoinh1/preview_scripts/archive/v_01.tar.gz",
+    download_url = "https://github.com/francisbeaudoinh1/preview_scripts/archive/v_10.tar.gz",
     author="Francis Beaudoin",
     author_email="francisbeaudoin@wearehackerone.com",
 
